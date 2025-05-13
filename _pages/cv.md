@@ -35,7 +35,7 @@ Below is an abbreviated version:
 ---
 
 #### Experience
-- **Cornell Autonomous Sailboat**:  
+- **Cornell Autonomous Sailboat**:
   *Machine Shop Lead*
   - 3D-modeling surfaces using SolidWorks
   - Designing sturdier rudder improvements using SolidWorks and FDM printers
