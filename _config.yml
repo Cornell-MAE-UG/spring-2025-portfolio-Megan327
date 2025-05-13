@@ -8,13 +8,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Megan Wu
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to "portfolio-<your-github-username>" 
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : Megan Wu
+description              : Megan Wu - Projects and CV
+baseurl                  : "/spring-2025-portfolio-Megan327/"
+url                      : "https://cornell-mae-ug.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: <Megan>
+title: <Megan Wu>
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/face.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is Megan, and I am studying Mechanical Engineering at Cornell University.
