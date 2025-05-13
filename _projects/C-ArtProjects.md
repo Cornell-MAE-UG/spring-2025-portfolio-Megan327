@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+title: Personal Art Projects
+description: Art
+technologies: [Drawing, Knitting, Sewing]
 image: /assets/images/cat.jpg
 ---
 
