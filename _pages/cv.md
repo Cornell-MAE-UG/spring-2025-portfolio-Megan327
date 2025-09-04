@@ -12,7 +12,7 @@ Below is an abbreviated version:
 ---
 
 
-**Email:** [mw2236@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +609 917 8074
+**Email:** [mw2236@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +1 609 917 8074
 
 ---
 
