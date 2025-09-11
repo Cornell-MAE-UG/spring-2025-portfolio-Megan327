@@ -21,6 +21,10 @@ Below is an abbreviated version:
   *Bachelor of Science in Mechanical Engineering*  
   GPA: 4.0/4.0 | Graduation: December 2026
 
+- **Technical Univeristy of Denmark**  
+  *Spring Study Abroad*  
+  Engineering courses
+
 - **Hong Kong University of Science and Technology**  
   *Summer Study Abroad*  
   Math and CS courses
@@ -37,18 +41,27 @@ Below is an abbreviated version:
 #### Experience
 - **Cornell Autonomous Sailboat**:
   *Machine Shop Lead*
-  - 3D-modeling surfaces using SolidWorks
-  - Designing sturdier rudder improvements using SolidWorks and FDM printers
-  - Machined aluminum parts for rudder
-  - Creating a fiberglass deck using a vacuum bag lay-up
+  - 3D-modeling surfaces using SolidWorks and DFM or DFA techniques
+  - Designed and machining sturdier rudder improvements, helping team win 1st place at SailBot competition
+  - Created a fiberglass deck using a vacuum bag lay-up method
+  - Coordinate machine shop shifts with mechanical team members to ensure smooth production process
+
 
 - **Hybrid Body Lab**:
   *Undergraduate Researcher*
-  - Building a machine using rapid prototyping techniques to wet spin biodegradable fibers 
-  - 3D-modeling machine parts in Fusion 360 and printing using SLA or FDM 
-  - Investigating 4D weaving techniques using hydrogel yarn 
-  - Collaborated with a small team of engineers and artists to create a wearable tattoo gun 
-  - Helped host a workshop for 10 expert fiber artists to introduce the wet spinning machine and e-textiles
+  - Used rapid prototyping techniques to build and open-source a wet spinning machine for functional biofibers
+  - Designing parts in Fusion 360 or Open SCAD and fabricating with SLA or FDM printers ([GitHub](https://hybridbodylab.github.io/open-wet-spinning/))
+  - Helped host a workshop study where 10 fiber artists tested the machine and used feedback to iterate the design
+  - Second author on an Best Pictorial Honorable Mention Award for a DIS paper ([DOI](https://dl.acm.org/doi/10.1145/3715336.3735409))
+  - Collaborated with a team of engineers and artists to create a miniature tattoo gun nail cover ([project page](https://www.hybridbody.human.cornell.edu/tutorialscollection/memory-nail-tutorial))
+  - Researched and implemented 4D weaving techniques using sustainable hydrogel yarn over the summer
+
+
+- **CB Fisk**:
+  *Summer Intern*
+  - Worked with 30 artisans and engineers to build Opus 166, a mechanical French Romantic pipe organ
+  - Soldered, shaped, and measured 100+ lead pipe feet
+  - Created parts for Barker levers and CNC-milled wind ducts from AutoCAD drawings
 
 ---
 
