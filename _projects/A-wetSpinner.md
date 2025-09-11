@@ -13,9 +13,9 @@ These threads are commonly used in electronic textiles, but commercially availab
 Using this machine, functional threads can be spun using food-safe, biodegradable ingredients.
 Check out the GitHub page for this project <a href="{{"https://hybridbodylab.github.io/open-wet-spinning/"}}">here</a>!
 
-I worked on all the mechanical components of the machine.
 Since the machine is supposed to be accessible to make, all the parts can be purchased or 3D printed.
 I work on designing all the 3D parts and printing them using Fusion 360 and Open SCAD.
-I also keep an updated assembly of the machine. Here is a drawing of the latest version:
+Recently, I've made the machine operate significanty quieter and have improved the speed at which yarn can be spun.
+I created an assembly of the machine. Here is a drawing of the latest version:
 
 ![Machine Drawing]({{ "/assets/images/machineDrawing.png" | relative_url }})
