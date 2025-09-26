@@ -11,8 +11,8 @@ that can fit in smaller scale places like makerspaces, homes, schools, etc.
 The goal is for people to DIY this machine and use it to wetspin functional threads (e.g. conductive, resistive, temperature/pH sensing).
 These threads are commonly used in electronic textiles, but commercially available functional threads are not sustainably made.
 Using this machine, functional threads can be spun using food-safe, biodegradable ingredients.
-Check out the GitHub page for this project <a href="{{"https://hybridbodylab.github.io/open-wet-spinning/"}}">here</a>!
-Check out the DOI for the published paper <a href="{{"https://dl.acm.org/doi/10.1145/3715336.3735409"}}">here</a>!
+Check out the GitHub page for this project <a href="{{"https://hybridbodylab.github.io/open-wet-spinning/"}}">here</a>.
+Check out the DOI for the published paper <a href="{{"https://dl.acm.org/doi/10.1145/3715336.3735409"}}">here</a>.
 
 Since the machine is supposed to be accessible to make, all the parts can be purchased or 3D printed.
 I work on designing all the 3D parts and printing them using Fusion 360 and Open SCAD.
