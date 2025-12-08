@@ -9,7 +9,6 @@ image: /assets/images/cat.jpg
 I enjoy drawing, knitting, crochet, and other crafty things.
 
 I learned how to knit a cardigan:
-![Cardigan]({{ "/assets/images/cardigan.jpg" | relative_url }})
 <img style="float: center;" src="/spring-2025-portfolio-Megan327/assets/images/cardigan.jpg" alt="Cardigan" width="600"/>
 
 Quilts that I've sewn:
