@@ -6,7 +6,7 @@ title: <Megan Wu>
 ## About Me
 
 
-<img src="/spring-2025-portfolio-Megan327/assets/images/face.jpg" alt="profile picture" width="400"/>
+<img style="float: right;" src="/spring-2025-portfolio-Megan327/assets/images/face.jpg" alt="profile picture" width="400"/>
  
 My name is Megan, and I am studying Mechanical Engineering at Cornell University.
 I am part of the class of 2027.
