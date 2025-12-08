@@ -19,7 +19,9 @@ I work on designing all the 3D parts and printing them using Fusion 360 and Open
 Recently, I've made the machine operate significanty quieter and have improved the speed at which yarn can be spun.
 I created an animated assembly of the machine in Fusion 360. Here is a drawing of the latest version:
 
-<img src="/spring-2025-portfolio-Megan327/assets/images/machineDrawing.png" alt="machineDrawing" class="center"/>
+<center>
+<img src="/spring-2025-portfolio-Megan327/assets/images/machineDrawing.png" alt="machineDrawing"/>
+</center>
 
 We have conducted workshops to identify how textile artists approach this machine. Through their feedback, we have improved the machine by incorporating familiar interfaces commonly used in other textile machines, like a foot pedal.
 
