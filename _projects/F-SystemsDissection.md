@@ -2,17 +2,8 @@
 layout: project
 title: Foot-Powered Washing Machine
 description: Machine Design Project
-technologies: [Fusion 360, 3D Printing, Assembly]
-image: /assets/images/justWashingMachine.png
+technologies: [Systems Dynamics, Open-loop response, Feedback Controls]
+image: /assets/images/milkFrother.png
 ---
 
-For a group project, 4 of my classmates and I worked together to pick a problem and try to solve it using a product. We decided to interview people with hand mobility issues who may not have access to electricity. We designed and built a foot-powered washing machine. Although it started out as a somewhat silly idea I think it came together well and it won the judge's choice award at the end of the semester!
-
-
-This project went through many iterations through rough cardboard prototypes to a final polished product.
-
-![Machine Drawing]({{ "/assets/images/ODP1.png" | relative_url }})
-
-![Machine Drawing]({{ "/assets/images/ODP2.png" | relative_url }})
-
-<img src="/spring-2025-portfolio-Megan327/assets/images/ODP2.png" alt="ODP2" width="600"/>
+In my junior year system dynamics class, groups of 4 students investigate a system. My group got chose to take apart a milk frother. We all brainstormed how to model the system and what assumptions we should make together. Then, we split up tasks to do. I worked on documenting the open-loop response. Specifically for the milk frother, it seems to be a step response. Here is our report:
