@@ -152,7 +152,7 @@ footer {
   text-align: center;
   transition: transform 0.3s ease;
   max-width: 250px; 
-  max-height: 300px; 
+  height: fit-content; 
 }
 
 .gallery-item img {
