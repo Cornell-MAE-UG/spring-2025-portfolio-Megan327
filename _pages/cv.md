@@ -22,11 +22,11 @@ Below is an abbreviated version:
   GPA: 4.0/4.0 | Graduation: December 2026
 
 - **Technical Univeristy of Denmark**  
-  *Spring Study Abroad*  
+  *Junior Year Spring Study Abroad*  
   Engineering courses
 
 - **Hong Kong University of Science and Technology**  
-  *Summer Study Abroad*  
+  *Freshman Year Summer Study Abroad*  
   Math and CS courses
 
 ---
