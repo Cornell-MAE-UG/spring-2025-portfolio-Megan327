@@ -6,8 +6,7 @@ title: <Megan Wu>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/face.jpg" | relative_url }}){: class="profile-image"}
-
+<img src="/spring-2025-portfolio-Megan327/assets/images/face.jpg" alt="profile picture" width="400"/>
  
 My name is Megan, and I am studying Mechanical Engineering at Cornell University.
 I am part of the class of 2027.
