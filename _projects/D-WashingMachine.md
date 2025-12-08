@@ -15,4 +15,4 @@ This project went through many iterations through rough cardboard prototypes to 
 
 ![Machine Drawing]({{ "/assets/images/ODP2.png" | relative_url }})
 
-<img src="ODP2.png" alt="ODP2" width="600"/>
+<img src="/spring-2025-portfolio-Megan327/assets/images/ODP2.png" alt="ODP2" width="600"/>
