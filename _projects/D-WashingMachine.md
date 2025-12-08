@@ -11,8 +11,6 @@ For a group project, 4 of my classmates and I worked together to pick a problem 
 
 This project went through many iterations through rough cardboard prototypes to a final polished product.
 
-![Machine Drawing]({{ "/assets/images/ODP1.png" | relative_url }})
-
-![Machine Drawing]({{ "/assets/images/ODP2.png" | relative_url }})
+<img src="/spring-2025-portfolio-Megan327/assets/images/ODP1.png" alt="ODP1" width="1000"/>
 
 <img src="/spring-2025-portfolio-Megan327/assets/images/ODP2.png" alt="ODP2" width="1000"/>
