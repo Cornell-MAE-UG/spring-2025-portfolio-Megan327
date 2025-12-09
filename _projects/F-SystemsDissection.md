@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Foot-Powered Washing Machine
+title: Milk Frother Dynamics
 description: Machine Design Project
 technologies: [Systems Dynamics, Open-loop response, Feedback Controls]
 image: /assets/images/milkFrother.png
